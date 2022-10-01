@@ -1,0 +1,16 @@
+@font-face {font-family: "Larsseit";font-display: auto;
+    font-fallback: Serif;font-weight: 400;
+    src: url(../src/fonts/Larsseit/Larsseit.otf) format('OpenType');}	
+
+@font-face {font-family: "Larsseit Medium";font-display: auto;
+        font-fallback: Serif;font-weight: 500;
+        src: url(../src/fonts/Larsseit/Larsseit-Medium.otf) format('OpenType');}
+        
+@font-face {font-family: "Larsseit Bold";font-display: auto;
+            font-fallback: Serif;font-weight: 700;
+            src: url(../src/fonts/Larsseit/Larsseit-Bold.otf) format('OpenType');}        
+    
+
+@font-face {font-family: "Recoleta";font-display: auto;
+    font-fallback: Serif;font-weight: 700;
+    src: url(../src/fonts/Recoleta//Recoleta-Bold.ttf) format('TrueType');}	
